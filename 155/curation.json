@@ -1,0 +1,51 @@
+{
+  "schemaVersion": 1,
+  "bookId": "155",
+  "edition": {
+    "title": "Agrippa — Book I, The Philosophy of Natural Magic (1913)",
+    "rights": "public-domain",
+    "sourceUrl": "https://www.globalgreyebooks.com/philosophy-of-natural-magic-ebook.html",
+    "note": "Development acceptance fixture: Book I chapter text and its reachable source notes; excludes front matter and Morley/De Laurence end matter. Human curation required for production."
+  },
+  "pagination": {
+    "mode": "chapters",
+    "documents": [
+      "index_split_010.html",
+      "index_split_011.html",
+      "index_split_014.html",
+      "index_split_015.html",
+      "index_split_016.html",
+      "index_split_017.html",
+      "index_split_018.html",
+      "index_split_019.html",
+      "index_split_020.html",
+      "index_split_021.html",
+      "index_split_022.html",
+      "index_split_023.html",
+      "index_split_024.html",
+      "index_split_025.html",
+      "index_split_026.html",
+      "index_split_027.html",
+      "index_split_028.html",
+      "index_split_029.html",
+      "index_split_030.html",
+      "index_split_031.html",
+      "index_split_032.html",
+      "index_split_033.html",
+      "index_split_034.html",
+      "index_split_035.html",
+      "index_split_036.html",
+      "index_split_037.html",
+      "index_split_038.html",
+      "index_split_039.html",
+      "index_split_040.html",
+      "index_split_041.html",
+      "index_split_042.html",
+      "index_split_043.html",
+      "index_split_044.html",
+      "index_split_045.html"
+    ],
+    "chapterPattern": "^CHAPTER (\\d+)\\.",
+    "includeLinkedNotes": true
+  }
+}
